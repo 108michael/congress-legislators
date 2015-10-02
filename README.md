@@ -482,29 +482,7 @@ The `ballotpedia` and `washington_post` fields have been created using code from
 
 * Karl Nicholas made a set of [Java classes](https://github.com/knicholas/congress-legislators) to easily filter the data.
 
+License
+-------
 
-### Who's Using This Data
-
-Ongoing projects making use of this data:
-
-* [GovTrack.us](https://www.govtrack.us)
-* [Sunlight Congress API](http://sunlightlabs.github.io/congress/)
-* [The New York Times Congress API](http://developer.nytimes.com/docs/read/congress_api)
-* [OpenCongress.org](http://www.opencongress.org)
-
-Stories written with this data:
-
-* http://swampland.time.com/2013/11/15/meet-the-39-democrats-who-voted-with-the-house-on-obamacare/
-* http://swampland.time.com/2013/10/28/liz-cheney-and-the-family-business-a-chart-of-all-congressional-dynasties/
-
-Other projects:
-
-* Margie Roswell's [committee map](http://mroswell.github.io/congressional-committee-maps/index.html)
-
-## Public domain
-
-This project is [dedicated to the public domain](LICENSE). As spelled out in [CONTRIBUTING](CONTRIBUTING.md):
-
-> The project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](http://creativecommons.org/publicdomain/zero/1.0/).
-
-> All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
+This repository was public domain until Oct 2, 2015. Changes since then are owned by GovTrack and licensed under CC-BY.
